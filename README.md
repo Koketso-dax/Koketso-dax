@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋,
+- 🗺 I'm Koketso and I'm based in Pretoria, South Africa.
+- 🌱 I’m currently learning Backend and Devops @ Alx
+- 🤔 I’m looking for help with Web3 development and Smart Contracts
+- 📫 How to reach me:
+  * Email: Lanchaster.k@gmail.com
+  * X: @frostxbyte47
 <!--
 **Koketso-dax/Koketso-dax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
