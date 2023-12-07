@@ -5,6 +5,9 @@
 - 📫 How to reach me:
   * Email: Lanchaster.k@gmail.com
   * X: [@frostxbyte47](https://twitter.com/frostxbyte47)
+---
+
+### :fire: My Stats :
 <!--
 **Koketso-dax/Koketso-dax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
