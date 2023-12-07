@@ -6,8 +6,10 @@
   * Email: Lanchaster.k@gmail.com
   * X: [@frostxbyte47](https://twitter.com/frostxbyte47)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koketso-dax&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Koketso-dax&theme=dark)](https://git.io/streak-stats)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koketso-dax&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages and Tools ⚙
 
