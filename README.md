@@ -1,17 +1,18 @@
 ### Hi there 👋,
 - 🗺 I'm Koketso and I'm based in Pretoria, South Africa.
-- 🌱 I’m currently learning Backend and Devops @ Alx
-- 🤔 I’m looking for help with Web3 development and Smart Contracts
+- 🌱 I’m currently learning Backend and Devops @ ALX.
+- 🤔 I’m looking for help with Web3 development and Smart Contracts.
 - 📫 How to reach me:
   * Email: Lanchaster.k@gmail.com
   * X: [@frostxbyte47](https://twitter.com/frostxbyte47)
 ---
+> Please note that this data is just a breakdown of my repositories and not necessarily a measure of my skill level. 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Koketso-dax&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koketso-dax&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Languages and Tools ⚙
-
+> These are select languages and frameworks I use frequently.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
