@@ -1,6 +1,5 @@
 ### Hi there 👋,
 - 🗺 I'm Koketso and I'm based in Pretoria, South Africa.
-- 🌱 I’m currently learning Backend and Devops @ ALX.
 - 🤔 I’m looking for help with Web3 development and Smart Contracts.
 - 📫 How to reach me:
   * Email: Lanchaster.k@gmail.com
